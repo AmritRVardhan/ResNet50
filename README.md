@@ -1,2 +1,2 @@
 # ResNet50
-Resnet
+Implementation of ResNet 50 using PyTorch
